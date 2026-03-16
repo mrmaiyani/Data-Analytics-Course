@@ -22,7 +22,7 @@ def get_password():
         else:
             print("Website not found.")
 
-def main():
+def start():
     while True:
         print("1. Save Password")
         print("2. Get Password")
@@ -39,4 +39,4 @@ def main():
         else:
             print("Invalid choice. Please try again.")
 
-main()
+start()
