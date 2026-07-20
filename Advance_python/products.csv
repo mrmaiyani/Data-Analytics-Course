@@ -1,0 +1,5 @@
+product Name,Price,category,rating,reviews,in_stock,launch_year,product_id
+Laptop,1000.0,Electronics,4.5,100,True,2020.0,1
+Smartphone,500.0,Electronics,4.0,200,True,2021.0,2
+Tablet,300.0,Electronics,,150,False,2019.0,3
+,,,4.2,80,,,4
